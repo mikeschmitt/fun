@@ -7,7 +7,16 @@ Just for fun, like the name says.  There is no correlation between these project
 Contents
 ========
   
-TitleGenerator.py : This object takes in a text passage and has the ability to create a randomly generated title 
-  based on the word content.  Concepts used include Markov chains.  Implements exception handling, string manipulation,   
-  web parsing, and dictionary collections.
+  + TitleGenerator.py 
 
+    MATHEMATICAL CONCEPTS:
+      - Markov Chains
+ 
+    PYTHON CONCEPTS:
+      - Dictionary Collections
+      - Website "Parsing"
+      - String Manipulation
+      - Exception Handling
+ 
+    ADDITIONAL NOTES:
+      - The object takes a text passage and can create a randomly generated title based on the word content/structure.
