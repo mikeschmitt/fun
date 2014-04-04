@@ -1,7 +1,7 @@
 fun
 ===
 
-Just for fun, like the name says.  There is no correlation between these projects; they are more ideas with concept learning mixed in.
+Just for fun, like the name says.  There is no correlation between these projects; they are more so random ideas with concept learning mixed in.
 
 
 Contents
